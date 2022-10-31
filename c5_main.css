@@ -1,3 +1,7 @@
+* {
+	margin: 0;
+	padding: 0;
+}
 /* custom property */
 :root {
 	--global-color-1: #800000;
@@ -49,7 +53,7 @@ main h1 {
 	font-size: 150%;
 	padding: .3em 0;
 	border-radius:15px;
-	box-shadow:inset 10px 10px black;
+	box-shadow:10px 10px black;
 	
 }
 main h2 {
